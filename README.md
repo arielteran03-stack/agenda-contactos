@@ -13,14 +13,22 @@ En esta segunda versión se añadieron **búsqueda, ordenamiento, categorías y 
 | Inicio de sesión | Panel con filtros |
 |---|---|
 | ![Login](docs/capturas/login.png) | ![Panel](docs/capturas/panel.png) |
+<img width="1860" height="922" alt="Captura de pantalla 2026-11-22 224254" src="https://github.com/user-attachments/assets/1b40d5a8-dce5-43b6-80e6-8f9406c7aa74" />
+<img width="1861" height="921" alt="Captura de pantalla 2026-11-22 224349" src="https://github.com/user-attachments/assets/83346e8e-7941-4c1c-95e4-c98559687944" />
+
 
 | Búsqueda | Favoritos |
 |---|---|
 | ![Búsqueda](docs/capturas/busqueda.png) | ![Favoritos](docs/capturas/favoritos.png) |
+<img width="1840" height="911" alt="Captura de pantalla 2026-11-22 224624" src="https://github.com/user-attachments/assets/d59f306a-9a8a-4d89-8d5b-0bf6931fcdb0" />
+<img width="1831" height="907" alt="Captura de pantalla 2026-11-22 224704" src="https://github.com/user-attachments/assets/cb704fd9-a6bc-449c-91a8-1b68590ed2c1" />
+
 
 | Nuevo contacto con categoría |
 |---|
 | ![Formulario](docs/capturas/formulario.png) |
+<img width="1835" height="901" alt="Captura de pantalla 2026-11-22 224740" src="https://github.com/user-attachments/assets/8337e782-3cfb-4014-8d39-f7dbe1867df2" />
+
 
 ## ✨ ¿Qué se puede hacer?
 
