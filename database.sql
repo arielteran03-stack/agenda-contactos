@@ -1,11 +1,4 @@
 -- Agenda personal de contactos (versión 2)
--- Script completo para instalar desde cero (MySQL / MariaDB)
---
--- Si ya tienes la versión 1 instalada y no quieres perder tus datos,
--- usa en su lugar el archivo migracion_v2.sql
---
--- En hosting gratuito (InfinityFree, etc.) la base de datos ya viene creada:
--- borra las dos primeras instrucciones (CREATE DATABASE y USE) antes de importar.
 
 CREATE DATABASE IF NOT EXISTS agenda_contactos
     CHARACTER SET utf8mb4
